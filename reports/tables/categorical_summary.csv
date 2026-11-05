@@ -1,0 +1,14 @@
+﻿column,count,unique,top,freq
+sg,353,5,1.02,106
+al,354,6,0.0,199
+su,351,6,0.0,290
+rbc,248,2,normal,201
+pc,335,2,normal,259
+pcc,396,2,notpresent,354
+ba,396,2,notpresent,374
+htn,398,2,no,251
+dm,398,2,no,261
+cad,398,2,no,364
+appet,399,2,good,317
+pe,399,2,no,323
+ane,399,2,no,339
